@@ -9,7 +9,3 @@ This project explores popularity-based, collaborative filtering, and hybrid reco
 
 ## Dataset
 MovieLens Dataset
-
-## Files
-- recommendation_system.ipynb
-- final_report.pdf
